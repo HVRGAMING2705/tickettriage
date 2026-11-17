@@ -1,0 +1,65 @@
+[
+ {
+  "text": "The entire website is down and no customer can log in at all",
+  "probs": [
+   0.7244009423430995,
+   0.09150899498854528,
+   0.09409106637187915,
+   0.08999899629647613
+  ]
+ },
+ {
+  "text": "Many users cannot log in since the morning update and get an error",
+  "probs": [
+   0.20388298954002412,
+   0.5769981628942087,
+   0.1059702354754067,
+   0.11314861209036044
+  ]
+ },
+ {
+  "text": "The report download is slow when the date range is more than a month",
+  "probs": [
+   0.18744697182711265,
+   0.21983676378292577,
+   0.4306597127900383,
+   0.16205655159992327
+  ]
+ },
+ {
+  "text": "There is a small spelling mistake in the welcome message on the home page",
+  "probs": [
+   0.15354948103084956,
+   0.14800229737507992,
+   0.18562631962889775,
+   0.5128219019651727
+  ]
+ },
+ {
+  "text": "The payment gateway is leaking card details to a third party",
+  "probs": [
+   0.4966868286956623,
+   0.1945483267956869,
+   0.16319378614546173,
+   0.1455710583631891
+  ]
+ },
+ {
+  "text": "The app crashes when users try to upload a photo from the gallery",
+  "probs": [
+   0.12041627894421125,
+   0.5731358475899815,
+   0.15001815782131064,
+   0.1564297156444967
+  ]
+ },
+ {
+  "text": "The quarterly sales report was shared with the team on Tuesday",
+  "probs": [
+   0.24584200817370572,
+   0.3053461080474571,
+   0.20377374134944518,
+   0.24503814242939198
+  ]
+ }
+]
